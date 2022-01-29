@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB9836C81e6197e78e5df9f8707104A63A3DE907d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb9836c81e6197e78e5df9f8707104a63a3de907d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "0xDoodles",
+  "SYMBOL": "0xDoodles",
+  "MAX_SUPPLY": 9800,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testdo-l8nmq7vn7g",
+  "SHOW_BACKGROUND": true
+}
